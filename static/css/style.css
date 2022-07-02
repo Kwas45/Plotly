@@ -1,0 +1,13 @@
+body {
+    color: #030000;
+    background-color: rgba(37, 35, 35, 0.623);
+}
+    .tag{
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    }
+    
+    .jumbotron {
+        background-image: url("../images/bact1.jpg");
+        background-size: 100% 100%;
+        text-align: center;
+    }
